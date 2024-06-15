@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **Human-Computer Interaction, AI**
 
-- 📫 How to reach me **Shenming.Ji21@student.xjtlu.edu.cn**
+- 👨‍💻 My homepage **https://shenming-ji.github.io/**
 
 - ⚡ Fun fact **Stay Hungry, Stay Foolish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shenming-ji-aa33312b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenming-ji-aa33312b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/peaceful-rosalind0z8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peaceful-rosalind0z8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
