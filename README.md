@@ -62,7 +62,7 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenming-ji&show_icons=true&locale=en&layout=compact" alt="shenming-ji" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenming-ji&show_icons=true&locale=en&layout=compact" alt="shenming-ji" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenming-ji&show_icons=true&locale=en" alt="shenming-ji" /></p> -->
 
